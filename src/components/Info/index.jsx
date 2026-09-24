@@ -4,7 +4,7 @@ function Info() {
 
   return (
     <>
-    Coleccion
+    Info
     </>
   )
 }

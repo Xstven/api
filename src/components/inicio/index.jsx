@@ -4,7 +4,7 @@ function Inicio() {
 
   return (
     <>
-    Coleccion
+    Inicio
     </>
   )
 }
